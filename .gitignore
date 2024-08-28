@@ -12,6 +12,10 @@ Icon
 # and thumbnails
 ._*
 
+#My personal testcode file
+testcode.py
+data management.py
+
 # People have already very handy .gitignore templates for Python projects.
 # Below is this one here: https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
